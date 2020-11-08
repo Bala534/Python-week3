@@ -17,11 +17,11 @@
 <h1>Block Diagram of the Chatbot</h1>
 
 <img src='L8_chatbot_block_dig.png'>
-  
-<h1>Heroku Link</h1>
-
-https://plantchatbot.herokuapp.com/
 
 <h1>Youtube Video</h1>
 
 [![IMAGE ALT TEXT](Screenshot_2020-11-08-15-26-28-60.jpg)](http://www.youtube.com/watch?v=J5UmjWu9R3M "Video Title")
+
+<h1>Heroku Link</h1>
+
+https://plantchatbot.herokuapp.com/
