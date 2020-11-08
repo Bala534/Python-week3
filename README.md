@@ -44,12 +44,6 @@ https://plantchatbot.herokuapp.com/
 
 <h4>Coding Part</h4>
 
-<ul>
-  
-  <li>Creating Flak Templates</li>
-  <li>Watch the below👇 video how I coded</li>
-  <li>[![IMAGE ALT TEXT](Screenshot_2020-11-08-20-04-49-96.jpg)](http://www.youtube.com/watch?v=tplSUg7bZhI "Video Title")</li>
-  
-</ul>
+<ol>Watch the below👇 video</ol>
 
 [![IMAGE ALT TEXT](Screenshot_2020-11-08-20-04-49-96.jpg)](http://www.youtube.com/watch?v=tplSUg7bZhI "Video Title")
