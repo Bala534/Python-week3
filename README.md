@@ -14,4 +14,4 @@ https://plantchatbot.herokuapp.com/
 
 <h1>Youtube Video Link</h1>
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
+[![IMAGE ALT TEXT](Screenshot_2020-11-08-15-26-28-60.jpg)](http://www.youtube.com/watch?v=J5UmjWu9R3M "Video Title")
