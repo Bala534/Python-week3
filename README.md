@@ -22,6 +22,6 @@
 
 [![IMAGE ALT TEXT](Screenshot_2020-11-08-15-26-28-60.jpg)](http://www.youtube.com/watch?v=J5UmjWu9R3M "Video Title")
 
-<h1>Heroku Link</h1>
+<h1>Flask App Developed On Heroku</h1>
 
 https://plantchatbot.herokuapp.com/
