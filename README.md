@@ -48,6 +48,6 @@ https://plantchatbot.herokuapp.com/
   
   <li>Creating Flak Templates</li>
   <li>Watch the below👇 video how I coded</li>
-  [![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=tplSUg7bZhI "Video Title")
+  [![IMAGE ALT TEXT](Screenshot_2020-11-08-20-04-49-96.jpg)](http://www.youtube.com/watch?v=tplSUg7bZhI "Video Title")
   
 </ul>
