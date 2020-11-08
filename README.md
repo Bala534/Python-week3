@@ -1,3 +1,11 @@
+<h1>Team mates</h1>
+
+<u1>
+  <li>Chinthalapudi Satya Rama Tulasi(18PA1A0533)</li>
+  <li>Chilakala Bala Mahesh(19PA1A0534)</li>
+  <li>Chilakala Baby Navya</li>
+</ul>
+
 <h1>Flask Chatbot</h1>
 <img src='image.png'>
 
