@@ -44,6 +44,6 @@ https://plantchatbot.herokuapp.com/
 
 <h4>Coding Part</h4>
 
-<ol>Watch the below👇 video</ol>
+<h5>Watch the below👇 video</h5>
 
 [![IMAGE ALT TEXT](Screenshot_2020-11-08-20-04-49-96.jpg)](http://www.youtube.com/watch?v=tplSUg7bZhI "Video Title")
