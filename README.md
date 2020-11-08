@@ -47,3 +47,19 @@ https://plantchatbot.herokuapp.com/
 <h5>Watch the below👇 video</h5>
 
 [![IMAGE ALT TEXT](Screenshot_2020-11-08-20-04-49-96.jpg)](http://www.youtube.com/watch?v=tplSUg7bZhI "Video Title")
+
+<h1>How to Deploy a Flask app in HEROKU</h1>
+
+<ul>
+  <li>Sign up into heroku.com</li>
+  <li><b>Step - 1</b> :- In terminal type "pip freeze > requirements.txt" click Enter</li>
+  <li><b>Step - 2(Optional)</b> :- In terminal type "pip install -r requirements.txt" click Enter</li>
+  <li><b>Step - 3</b> :- Outside the demoenv folder create a "Procfie" file</li>
+  <li><b>Step - 4</b> :- type "web: gunicorn plantservoapp.main:app" in Procfile file</li>
+  <li><b>Step - 5</b> :- In terminal, type "heroku login -i" </li>
+  <li><b>Step - 6</b> :- Enter email and password<li>
+  <li><b>Step - 7</b> :- In source control type "initial commit" and click tick mark and goto three dots and click push</li>
+  <li><b>Step - 8</b> :- Goto heroku.com and login and click on "new" and click "create new app" and put appname as "plantchatbot" and click "create app"</li>
+  <li><b>Step - 9</b> :- In terminal, type "heroku git:remote -a plantchatbot"</li>
+  <li><b>Step - 10</b> :- In terminal type "git push heroku master" click Enter</li>
+</ul>
