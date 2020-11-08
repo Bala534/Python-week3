@@ -73,3 +73,9 @@ https://plantchatbot.herokuapp.com/
   <li>Heroku</li>
   <li>Flask framework for python</li>
 </ol>
+
+<h1>References</h1>
+
+1.https://stackabuse.com/deploying-a-flask-application-to-heroku/
+2.https://flask.palletsprojects.com/en/1.1.x/tutorial/templates/
+3.https://devcenter.heroku.com/articles/heroku-cli
