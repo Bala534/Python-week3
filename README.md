@@ -14,6 +14,10 @@
   <li>There are a number of frameworks for Python, including Flask, Tornado, Pyramid, and Django.</li>
   <li>A <b>framework</b> is a code library that makes a developer's life easier when building reliable, scalable, and maintainable web applications by providing reusable code or extensions for common operations.</li>
   
+<h1>Block Diagram of the Chatbot</h1>
+
+<img src='L8_chatbot_block_dig.png'>
+  
 <h1>Heroku Link</h1>
 
 https://plantchatbot.herokuapp.com/
