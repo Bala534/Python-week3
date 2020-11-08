@@ -28,7 +28,7 @@ https://plantchatbot.herokuapp.com/
 
 <h1>How I made this Flask app</h1>
 
-<h3>Creating virtual environment</h3>
+<h4>Creating virtual environment</h4>
 
 <ul>
   <li><b>Step - 1</b> :- Open VScode </li>
@@ -40,4 +40,14 @@ https://plantchatbot.herokuapp.com/
   <li><b>Step - 7</b> :- Outside the chatbot folder create ".gitignore" file</li>
   <li><b>Step - 8</b> :- Write "chatbot" in .gitignore</li>
   <li><b>Step - 9</b> :- Outside the chatbot folder create "Readme.md" file and write about your flask app</li>
+</ul>
+
+<h4>Coding Part</h4>
+
+<ul>
+  
+  <li>Creating Flak Templates</li>
+  <li>Watch the below👇 video how I coded</li>
+  [![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=tplSUg7bZhI "Video Title")
+  
 </ul>
