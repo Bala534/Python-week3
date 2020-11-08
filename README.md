@@ -63,3 +63,13 @@ https://plantchatbot.herokuapp.com/
   <li><b>Step - 9</b> :- In terminal, type "heroku git:remote -a plantchatbot"</li>
   <li><b>Step - 10</b> :- In terminal type "git push heroku master" click Enter</li>
 </ul>
+
+<h1>Tools and Computer languages that I used for this Chatbot</h1>
+
+<ol>
+  <li>VSCode for IDE</li>
+  <li>Python 3.8.6</li>
+  <li>HTML, CSS, Java Script</li>
+  <li>Heroku</li>
+  <li>Flask framework for python</li>
+</ol>
