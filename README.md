@@ -25,3 +25,19 @@
 <h1>Flask App Developed On Heroku</h1>
 
 https://plantchatbot.herokuapp.com/
+
+<h1>How I made this Flask app</h1>
+
+<h2>Creating virtual environment</h2>
+
+<ul>
+  <li>Step - 1 :- Open VScode </li>
+  <li>Step - 2 :- In terminal, type "python -m venv chatbot" click Enter</li>
+  <li>Step - 3 :- In terminal, type "source chatbot/Scripts/activate" click Enter</li>
+  <li>Step - 4 :- In terminal, type "pip install flask" click Enter</li>
+  <li>Step - 5 :- In terminal, type "pip install gunicorn" click Enter</li>
+  <li>Step - 6 :- In terminal, type "git init" click Enter</li>
+  <li>Step - 7 :- Outside the chatbot folder create ".gitignore" file</li>
+  <li>Step - 8 :- Write "chatbot" in .gitignore</li>
+  <li>Step - 9 :- Outside the chatbot folder create "Readme.md" file and write about your flask app</li>
+</ul>
